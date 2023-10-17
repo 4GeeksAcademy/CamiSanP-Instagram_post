@@ -1,0 +1,36 @@
+.post {
+    margin: 0 auto;
+    width: 450px;
+    margin-top: 20px;
+    background-color: white;
+}
+img{
+    width: 100%;
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.post-body {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.icon-header{
+    display: flex;
+    align-items: center;
+}
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fa-regular.fa-bookmark.fa-xl{
+    float: right;
+    margin-right: 10px;
+}
+.contenedor{
+    position: relative;
+  width: 390px; 
+  overflow: hidden;
+}
